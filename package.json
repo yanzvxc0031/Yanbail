@@ -1,16 +1,16 @@
 {
-    "name": "qwerty-xcv/Baileys",
-    "version": "2.1.7",
-    "description": "WhatsApp Modified By 7eppeli",
+    "name": "Baileys",
+    "version": "2.1.8",
+    "description": "WhiskeySocket",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/qwerty-xcv/Baileys",
+    "homepage": "https://github.com/Bealllevey62/xatabail",
     "repository": {
-        "url": "https://github.com/qwerty-xcv/Baileys"
+        "url": "https://github.com/Bealllevey62/xatabail"
     },
     "license": "MIT",
-    "author": "7eppeli.pdf",
+    "author": "Xatanicvxii",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://qwerty-xcv/Baileys/issues"
+      "url": "https://Bealllevey62/xatabail/issues"
     }
 }
