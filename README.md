@@ -1,6 +1,6 @@
 # Baileys WhisykeySocket
 <p align='center'>
-  <img src="https://files.catbox.moe/8jurck.jpg" width="202">
+  <img src="https://files.catbox.moe/8jurck.jpg" width="500">
 </p>
 
 --- 
