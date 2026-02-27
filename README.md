@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "xatabail": "github:Bealllevey62/xatabail"
+  "Yanbail": "github:yanzvxc0031/Yanbail"
 }
 ```
 ## Import
@@ -16,7 +16,7 @@
 const {
   default:makeWASocket,
   // Other Options 
-} = require('xatabail');
+} = require('Yanbail');
 ```
 
 
@@ -25,7 +25,7 @@ const {
 const {
   default: makeWASocket,
   fetchLatestWAWebVersion
-} = require('xatabail');
+} = require('Yanbail');
 
 const client = makeWASocket({
   browser: ['Ubuntu', 'Chrome', '20.00.1'],
