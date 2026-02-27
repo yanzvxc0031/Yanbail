@@ -5,12 +5,12 @@
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/Bealllevey62/xatabail",
+    "homepage": "https://github.com/yanzvxc0031/Yanbail",
     "repository": {
-        "url": "https://github.com/Bealllevey62/xatabail"
+        "url": "https://github.com/yanzvxc0031/Yanbail"
     },
     "license": "MIT",
-    "author": "Xatanicvxii",
+    "author": "XATANICVXII And YANZZUUL",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
